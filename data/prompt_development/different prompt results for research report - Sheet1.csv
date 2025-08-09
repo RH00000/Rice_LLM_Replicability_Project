@@ -1,0 +1,10 @@
+prompt_num,trial_num,model_tested,manual_run ,studies_used,auc
+1,1,gemini-2.5-pro,TRUE,29,0.6056
+1,2,gemini-2.5-flash,FALSE,82,0.5611
+2,1,gemini-2.5-pro,TRUE,82,0.5903
+3,1,gemini-2.5-pro,FALSE,84,0.6064
+4,1,gemini-2.5-pro,FALSE,78,0.6088
+4,2,gemini-2.5-pro,FALSE,100,0.6623
+5,1,gemini-2.5-pro,FALSE,100,0.6875
+6,1,gemini-2.5-pro,FALSE,51,0.5903
+5,2,gemini-2.5-pro,FALSE,100,0.7022
