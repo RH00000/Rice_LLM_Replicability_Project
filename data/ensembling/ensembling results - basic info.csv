@@ -1,0 +1,6 @@
+type,trial_num,num_of_prompts,studies_used,auc
+softened-tone,1,5,95,0.7325
+primary-then-secondary,1,5,100,0.6929
+comparative prompt,1,6,100,0.7074
+softened-tone,2,5,100,0.7066
+softened-tone,3,5,100,0.7234
